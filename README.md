@@ -9,7 +9,7 @@
 ## 🙋‍♂️ About Me 
 - 🌱 I’m currently learning **Flutter**
 - 👯 I’m looking to collaborate with other mobile developers especially in Flutter
-- 🥅 2021 Goals: Creating more projects and contribute more to **Open Source projects**
+- 🥅 2022 Goals: Creating more projects and contribute more to **Open Source projects**
 - ⚡ Fun fact: **I love mashuping musics**
 
 ## Languages and Tools:
