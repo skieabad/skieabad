@@ -1,6 +1,9 @@
 
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Wilson or you can call me Son</h1>
-<h3 align="center">I'm a Mobile Developer and also a student</h3>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&duration=6000&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Wilson+or+you+can+call+me+Son;I'm+a+Mobile+Developer;Nice+to+meet+you&center=true&size=30">
+  </a>
+</h1>
 
 </br>
 
