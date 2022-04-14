@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skieabad&label=Profile%20views&color=0e75b6&style=flat" alt="skieabad" /> </p>
 
 ## 🙋‍♂️ About Me 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter** / **Dart**
 - 👯 I’m looking to collaborate with other mobile developers especially in Flutter
 - 🥅 2022 Goals: Creating more projects and contribute more to **Open Source projects**
 - ⚡ Fun fact: **I love mashuping musics**
