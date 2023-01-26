@@ -18,14 +18,16 @@
 ## Languages and Tools:
 
 <p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://kotlinlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> </a>
-    <a href="https://dart.dev/" target="_blank"> <img src="https://[img.icons8.com/color/48/000000](https://icons8.com/icon/55251/c-sharp-logo)/dart.png"/> </a>
-    <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a>
-    <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-
+    <a style="padding-right:8px" href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+    <a style="padding-right:12px" href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> </a>
+    <a style="padding-right:2px" href="https://dart.dev/" target="_blank"> <img width="50px" src="https://img.icons8.com/color/512/dart.png"/> </a>
+    <a style="padding-right:8px" href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a>
+    <a style="padding-right:8px" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <a style="padding-right:8px" href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a style="padding-right:8px" href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
+    <a style="padding-right:16px" href="https://azure.microsoft.com/en-us" target="_blank"> <img width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" /> </a> 
+    <a style="padding-right:16px" href="https://filezilla-project.org/" target="_blank"> <img width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" /> </a> 
+     <a style="padding-right:8px" href="https://www.sourcetreeapp.com/" target="_blank"> <img width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original-wordmark.svg" /> </a> 
 </p>
 
 ## Connect with me:
