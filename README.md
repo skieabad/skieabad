@@ -6,7 +6,7 @@
 
 </br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=skieabad&label=Profile%20views&color=0e75b6&style=flat" alt="skieabad" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=skieabad&label=Profile%20views&color=0e75b6&style=flat" alt="skieabad" /> </p>
 
 ## About Me 
 - 🔭 I’m currently working on **desktop**, **web**, and **mobile projects**
